@@ -1,0 +1,4 @@
+#Sentiment Spy
+colorama
+textblob
+

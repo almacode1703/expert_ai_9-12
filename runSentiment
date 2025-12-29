@@ -1,0 +1,4 @@
+#!/usr/bin
+
+clear
+python sentimentSPY.py
